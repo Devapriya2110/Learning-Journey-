@@ -1,0 +1,13 @@
+a=int(input("Enter the no:"))
+print("The datatype of a is:",type(a))
+a=str(a)
+print("Now the datatype of a is:",type(a))
+a=int(a)
+print("Now the datatype of a is:",type(a))
+a=float(a)
+print("Now the datatype of a is:",type(a))
+a=int(a)
+print("Now the datatype of a is:",type(a))
+a=str(a)
+print("Now the datatype of a is:",type(a))
+

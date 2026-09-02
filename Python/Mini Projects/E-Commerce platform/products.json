@@ -1,0 +1,177 @@
+{
+    "Clothing": {
+        "Shirt": [
+            {
+                "id": 101,
+                "name": "Classic Cotton T-Shirt",
+                "color": "Red",
+                "price": 499,
+                "stock": 20
+            },
+            {
+                "id": 102,
+                "name": "Classic Cotton T-Shirt",
+                "color": "Blue",
+                "price": 499,
+                "stock": 15
+            },
+            {
+                "id": 103,
+                "name": "Premium Polo Shirt",
+                "color": "White",
+                "price": 799,
+                "stock": 10
+            },
+            {
+                "id": 104,
+                "name": "Premium Polo Shirt",
+                "color": "Black",
+                "price": 799,
+                "stock": 12
+            }
+        ],
+
+        "Pants": [
+            {
+                "id": 105,
+                "name": "Regular Fit Jeans",
+                "color": "Blue",
+                "price": 999,
+                "stock": 15
+            },
+            {
+                "id": 106,
+                "name": "Regular Fit Jeans",
+                "color": "Black",
+                "price": 999,
+                "stock": 12
+            },
+            {
+                "id": 107,
+                "name": "Cotton Casual Pants",
+                "color": "Blue",
+                "price": 899,
+                "stock": 10
+            },
+            {
+                "id": 108,
+                "name": "Cotton Casual Pants",
+                "color": "Black",
+                "price": 899,
+                "stock": 8
+            }
+        ]
+    },
+
+    "Electronics": {
+        "Mobile Phones": [
+            {
+                "id": 201,
+                "name": "Samsung Galaxy A26 5G",
+                "brand": "Samsung",
+                "color": "Black",
+                "price": 22999,
+                "stock": 8
+            },
+            {
+                "id": 202,
+                "name": "OnePlus Nord",
+                "brand": "OnePlus",
+                "color": "Black",
+                "price": 24999,
+                "stock": 6
+            }
+        ],
+
+        "Audio": [
+            {
+                "id": 203,
+                "name": "Wireless Over-Ear Headphones",
+                "brand": "SoundCore",
+                "color": "Blue",
+                "price": 2999,
+                "stock": 15
+            },
+            {
+                "id": 204,
+                "name": "Wireless Earbuds",
+                "brand": "Realme",
+                "color": "Black",
+                "price": 1999,
+                "stock": 20
+            }
+        ],
+
+        "Accessories": [
+            {
+                "id": 205,
+                "name": "Wireless Mouse",
+                "brand": "Logitech",
+                "color": "Black",
+                "price": 1299,
+                "stock": 12
+            },
+            {
+                "id": 206,
+                "name": "Mechanical Keyboard",
+                "brand": "Redragon",
+                "color": "White",
+                "price": 3499,
+                "stock": 8
+            }
+        ]
+    },
+
+    "Shoes": {
+        "Sneakers": [
+            {
+                "id": 301,
+                "name": "Casual Sneakers",
+                "color": "White",
+                "price": 1999,
+                "stock": 10
+            },
+            {
+                "id": 302,
+                "name": "Running Sneakers",
+                "color": "Red",
+                "price": 2499,
+                "stock": 6
+            }
+        ],
+
+        "Sandals": [
+            {
+                "id": 303,
+                "name": "Casual Comfort Sandals",
+                "color": "Blue",
+                "price": 799,
+                "stock": 15
+            },
+            {
+                "id": 304,
+                "name": "Party Sandals",
+                "color": "Red",
+                "price": 1299,
+                "stock": 8
+            }
+        ],
+
+        "Heels": [
+            {
+                "id": 305,
+                "name": "Casual Block Heels",
+                "color": "Black",
+                "price": 1799,
+                "stock": 10
+            },
+            {
+                "id": 306,
+                "name": "Party Heels",
+                "color": "Red",
+                "price": 2499,
+                "stock": 5
+            }
+        ]
+    }
+}

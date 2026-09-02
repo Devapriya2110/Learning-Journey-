@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+tempCodeRunnerFile.py
+
+users.pickle
+*.env
+
+raj@gmail.com.json
