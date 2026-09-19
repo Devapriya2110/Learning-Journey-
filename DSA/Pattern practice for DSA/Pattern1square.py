@@ -16,3 +16,10 @@ class Solution:
             
 sol = Solution()
 sol.pattern1(5)
+
+#Output
+# * * * * * 
+# * * * * * 
+# * * * * * 
+# * * * * * 
+# * * * * *
