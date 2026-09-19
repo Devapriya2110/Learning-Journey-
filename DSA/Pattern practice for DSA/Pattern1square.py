@@ -17,6 +17,14 @@ class Solution:
 sol = Solution()
 sol.pattern1(5)
 
+#My coding ninja code
+def nForest(n:int) ->None:
+
+    for i in range(n):
+        for j in range(n):
+            print("*",end=" ")
+        print()
+            
 #Output
 # * * * * * 
 # * * * * * 
